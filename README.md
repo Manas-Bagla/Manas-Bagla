@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react, Javascript**
 
-- 📫 How to reach me **manasbagla0@gmail.com**
+- 📫 My Blog **https://thegeopoliticalobserver.com/**
 
 - ⚡ Fun fact **Life long Learner**
 
